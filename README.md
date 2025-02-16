@@ -1,1 +1,1 @@
-# Data-Bank-Project-using-SQL
+# Data-Bank-Project
